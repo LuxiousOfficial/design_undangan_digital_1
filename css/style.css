@@ -1507,6 +1507,10 @@ footer .creadit p {
 		margin-bottom: 2rem;
 	}
 
+	.home .open-invitation {
+	        margin-top: 2rem;
+        }
+
 	.home .open-invitation a {
 		font-size: 2rem;
 	}
