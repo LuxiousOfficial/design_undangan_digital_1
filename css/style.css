@@ -1493,6 +1493,10 @@ footer .creadit p {
 		font-size: 3.8rem;
 	}
 
+	.home .home-content .image img {
+                margin-bottom: 3rem;
+	}
+
 	.home .acara .wedding {
 		font-size: 3.7rem;
 		margin-bottom: 1rem;
